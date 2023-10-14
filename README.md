@@ -1,5 +1,5 @@
 # Drag-and-Drop
-Creating a full-stack web page for a blog with drag-and-drop interfaces is a complex task that involves both front-end and back-end development. I am making a basic example using HTML, CSS, and JavaScript for the front-end, as well as a simplified example of back-end code using Node.js and Express.js. This example doesn't include a full-fledged drag-and-drop interface, but it will give you a starting point for building a simple blog creation page.
+Creating a full-stack web page for a blog with drag-and-drop interfaces is a complex task that involves both front-end and back-end development. I am making a basic example using HTML, CSS, and JavaScript for the front-end, as well as a simplified example of back-end code using Node.js and Express.js.
 
 Front-end (HTML, CSS, JavaScript)
 
@@ -121,6 +121,4 @@ document.addEventListener("DOMContentLoaded", function() {
 
 This front-end code sets up a basic web page with a text editor, image uploader, and a preview section. It updates the preview as the user types and uploads an image. The "Publish Blog" button is a placeholder for sending the content to the server.
 
-For the back-end, you would need to set up a server using Node.js and Express.js to handle the blog creation and storage. The back-end code will depend on your specific requirements, such as database integration, user authentication, and more.
-
-This is a basic example to get you started. To create a full-featured blog creation page, you will need to expand and customize both the front-end and back-end code to meet your specific needs.
+For the back-end, we would need to set up a server using Node.js and Express.js to handle the blog creation and storage. The back-end code will depend on your specific requirements, such as database integration, user authentication, and more.
